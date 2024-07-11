@@ -368,14 +368,14 @@ if red and kanji == "1kanji" {
     background-image: url("")!important;
 }}
 
-gyoku2 = 
-gyoku1 = 
-ou2 = 
-ou1 = 
-gyoku2180 = 
-gyoku1180 = 
-ou2180 = 
-ou1180 = 
+gyoku2 = ""
+gyoku1 = ""
+ou2 = ""
+ou1 = ""
+gyoku2180 = ""
+gyoku1180 = ""
+ou2180 = ""
+ou1180 = ""
 
 piece.king.sente,
 .v-kyotoshogi piece.king.sente,
