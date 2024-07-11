@@ -17,7 +17,7 @@ And now you can play shogi using Hari Seldon Shogi Pieces on Lishogi!
   - Double Gyoku (Both have the Jewel)
   - Double Ou (Both have the King)
  
- ![hari seldon shogi pieces stylus option](https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Hari%20Seldon%20Shogi%20Pieces/Screenshots/Settings.png)
+![hari seldon shogi pieces stylus option](https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Hari%20Seldon%20Shogi%20Pieces/Screenshots/Settings.png)
 
  ## Lishogi Screenshots
 Here are some screenshots:
