@@ -10,7 +10,7 @@ Themes available:
 | [![Static Badge](https://img.shields.io/badge/Lishogi-Hari_Seldon_Shogi_Pieces-blue?logo=github)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/Hari%20Seldon%20Shogi%20Pieces) |
 
 ## Additional Theme for Shogi
-I also made the Chess-Themed Shogi which you can check on the GitHub repo below:
+I also created Chess-Themed Shogi which you can check on the GitHub repo below:
 
 [![Static Badge](https://img.shields.io/badge/Lishogi-Chess--Themed_Shogi-blue?logo=github)](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi)
 
