@@ -3,12 +3,14 @@ Hari Seldon Shogi Pieces are the infamous pieces used in the [English Wikipedia'
 
 And now you can play shogi using Hari Seldon pieces on Lishogi!
 
+- Available in 2-Kanji and 1-Kanji styles
+- Also available with red promoted pieces
 - Works with matches, puzzles, analysis and board editor
 - Works with all variants except with Chu Shogi 
 
 ## Features
 - Option to select either 2-Kanji or 1-Kanji style (default 2-Kanji)
-- Ability to toggle red promoted pieces on or off (default off)
+- Ability to toggle red promoted pieces on and off (default off)
 - Choose between four Kings style:
   - Gyoku-Ou (Sente has the Jewel King while Gote has the King)[default]
   - Ou-Gyoku (Sente has the King while Gote has the Jewel King)
