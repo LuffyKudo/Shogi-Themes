@@ -30,5 +30,5 @@ Here are some screenshots:
 - Modified [Traditional Shogi Pieces](https://commons.wikimedia.org/wiki/Category:SVG_traditional_shogi_pieces) are originally by [Hari Seldon](https://commons.wikimedia.org/wiki/User:Hari_Seldon) licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en).
 
 ## 
-*Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lichess.org](https://lichess.org).*
+*Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lishogi.org](https://lishogi.org).*
 
