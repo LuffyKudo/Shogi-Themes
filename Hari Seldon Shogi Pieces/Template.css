@@ -1,0 +1,455 @@
+/* ==UserStyle==
+@name           Hari Seldon Shogi Pieces
+@version        1.0.0
+@namespace      https://github.com/LuffyKudo/Shogi-Themes
+@description    Play shogi using Hari Seldon's Shogi Pieces on Lishogi.org!
+@author         LuffyKudo
+@homepageURL    https://github.com/LuffyKudo/Shogi-Themes/tree/main/Hari%20Seldon%20Shogi%20Pieces
+@supportURL     https://github.com/LuffyKudo/Shogi-Themes/issues
+@updateURL      https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Hari%20Seldon%20Shogi%20Pieces/Lishogi.user.styl
+@license        CC BY-SA 4.0
+@preprocessor   stylus
+@var select kanji "Kanji Style" {
+    "2-Kanji":"2kanji",
+    "1-Kanji":"1kanji"
+}
+@var checkbox red "Red Promoted Pieces" 0
+@var select kings "Kings Style" {
+    "Gyoku-Ou":"gyokuou",
+    "Ou-Gyoku":"ougyoku",
+    "Double Gyoku":"gyoku",
+    "Double Ou":"ou"    
+}
+==/UserStyle== */
+
+@-moz-document domain("lishogi.org") {
+
+piece.pawn.sente,
+.sg-wrap.orientation-gote piece.pawn.gote,
+.spare-bottom piece.pawn.gote,
+.v-kyotoshogi piece.pawn.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.pawn.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.pawn.gote,
+.spare-bottom.v-kyotoshogi piece.pawn.gote {
+    background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.pawn.gote,
+.sg-wrap.orientation-gote piece.pawn.sente,
+.spare-top piece.pawn.sente,
+.v-kyotoshogi piece.pawn.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.pawn.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.pawn.sente,
+.spare-top.v-kyotoshogi piece.pawn.sente {
+    background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.lance.sente,
+.sg-wrap.orientation-gote piece.lance.gote,
+.spare-bottom piece.lance.gote,
+.v-kyotoshogi piece.lance.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.lance.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.lance.gote,
+.spare-bottom.v-kyotoshogi piece.lance.gote {
+    background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.lance.gote,
+.sg-wrap.orientation-gote piece.lance.sente,
+.spare-top piece.lance.sente,
+.v-kyotoshogi piece.lance.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.lance.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.lance.sente,
+.spare-top.v-kyotoshogi piece.lance.sente {
+    background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.knight.sente,
+.sg-wrap.orientation-gote piece.knight.gote,
+.spare-bottom piece.knight.gote,
+.v-kyotoshogi piece.knight.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.knight.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.knight.gote,
+.spare-bottom.v-kyotoshogi piece.knight.gote {
+    background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.knight.gote,
+.sg-wrap.orientation-gote piece.knight.sente,
+.spare-top piece.knight.sente,
+.v-kyotoshogi piece.knight.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.knight.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.knight.sente,
+.spare-top.v-kyotoshogi piece.knight.sente {
+    background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.silver.sente,
+.sg-wrap.orientation-gote piece.silver.gote,
+.spare-bottom piece.silver.gote,
+.v-kyotoshogi piece.silver.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.silver.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.silver.gote,
+.spare-bottom.v-kyotoshogi piece.silver.gote {
+    background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.silver.gote,
+.sg-wrap.orientation-gote piece.silver.sente,
+.spare-top piece.silver.sente,
+.v-kyotoshogi piece.silver.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.silver.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.silver.sente,
+.spare-top.v-kyotoshogi piece.silver.sente {
+    background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.gold.sente,
+.sg-wrap.orientation-gote piece.gold.gote,
+.spare-bottom piece.gold.gote,
+.v-kyotoshogi piece.gold.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.gold.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.gold.gote,
+.spare-bottom.v-kyotoshogi piece.gold.gote {
+    background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.gold.gote,
+.sg-wrap.orientation-gote piece.gold.sente,
+.spare-top piece.gold.sente,
+.v-kyotoshogi piece.gold.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.gold.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.gold.sente,
+.spare-top.v-kyotoshogi piece.gold.sente {
+    background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.bishop.sente,
+.sg-wrap.orientation-gote piece.bishop.gote,
+.spare-bottom piece.bishop.gote,
+.v-kyotoshogi piece.bishop.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.bishop.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.bishop.gote,
+.spare-bottom.v-kyotoshogi piece.bishop.gote {
+    background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.bishop.gote,
+.sg-wrap.orientation-gote piece.bishop.sente,
+.spare-top piece.bishop.sente,
+.v-kyotoshogi piece.bishop.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.bishop.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.bishop.sente,
+.spare-top.v-kyotoshogi piece.bishop.sente {
+    background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.rook.sente,
+.sg-wrap.orientation-gote piece.rook.gote,
+.spare-bottom piece.rook.gote,
+.v-kyotoshogi piece.rook.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.rook.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.rook.gote,
+.spare-bottom.v-kyotoshogi piece.rook.gote {
+    background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.rook.gote,
+.sg-wrap.orientation-gote piece.rook.sente,
+.spare-top piece.rook.sente,
+.v-kyotoshogi piece.rook.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.rook.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.rook.sente,
+.spare-top.v-kyotoshogi piece.rook.sente {
+    background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.tokin.sente,
+.sg-wrap.orientation-gote piece.tokin.gote,
+.spare-bottom piece.tokin.gote,
+.v-kyotoshogi piece.tokin.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.tokin.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.tokin.gote,
+.spare-bottom.v-kyotoshogi piece.tokin.gote {
+    background-image: url("")!important;
+if red and kanji == "2kanji" {
+    background-image: url("")!important;
+}
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}
+if red and kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.tokin.gote,
+.sg-wrap.orientation-gote piece.tokin.sente,
+.spare-top piece.tokin.sente,
+.v-kyotoshogi piece.tokin.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.tokin.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.tokin.sente,
+.spare-top.v-kyotoshogi piece.tokin.sente {
+    background-image: url("")!important;
+if red and kanji == "2kanji" {
+    background-image: url("")!important;
+}
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}
+if red and kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.promotedlance.sente,
+.sg-wrap.orientation-gote piece.promotedlance.gote,
+.spare-bottom piece.promotedlance.gote {
+    background-image: url("")!important;
+if red and kanji == "2kanji" {
+    background-image: url("")!important;
+}
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}
+if red and kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.promotedlance.gote,
+.sg-wrap.orientation-gote piece.promotedlance.sente,
+.spare-top piece.promotedlance.sente {
+    background-image: url("")!important;
+if red and kanji == "2kanji" {
+    background-image: url("")!important;
+}
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}
+if red and kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.promotedknight.sente,
+.sg-wrap.orientation-gote piece.promotedknight.gote,
+.spare-bottom piece.promotedknight.gote {
+    background-image: url("")!important;
+if red and kanji == "2kanji" {
+    background-image: url("")!important;
+}
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}
+if red and kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.promotedknight.gote,
+.sg-wrap.orientation-gote piece.promotedknight.sente,
+.spare-top piece.promotedknight.sente {
+    background-image: url("")!important;
+if red and kanji == "2kanji" {
+    background-image: url("")!important;
+}
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}
+if red and kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.promotedsilver.sente,
+.sg-wrap.orientation-gote piece.promotedsilver.gote,
+.spare-bottom piece.promotedsilver.gote {
+    background-image: url("")!important;
+if red and kanji == "2kanji" {
+    background-image: url("")!important;
+}
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}
+if red and kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.promotedsilver.gote,
+.sg-wrap.orientation-gote piece.promotedsilver.sente,
+.spare-top piece.promotedsilver.sente {
+    background-image: url("")!important;
+if red and kanji == "2kanji" {
+    background-image: url("")!important;
+}
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}
+if red and kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.horse.sente,
+.sg-wrap.orientation-gote piece.horse.gote,
+.spare-bottom piece.horse.gote {
+    background-image: url("")!important;
+if red and kanji == "2kanji" {
+    background-image: url("")!important;
+}
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}
+if red and kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.horse.gote,
+.sg-wrap.orientation-gote piece.horse.sente,
+.spare-top piece.horse.sente {
+    background-image: url("")!important;
+if red and kanji == "2kanji" {
+    background-image: url("")!important;
+}
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}
+if red and kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.dragon.sente,
+.sg-wrap.orientation-gote piece.dragon.gote,
+.spare-bottom piece.dragon.gote {
+    background-image: url("")!important;
+if red and kanji == "2kanji" {
+    background-image: url("")!important;
+}
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}
+if red and kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+piece.dragon.gote,
+.sg-wrap.orientation-gote piece.dragon.sente,
+.spare-top piece.dragon.sente {
+    background-image: url("")!important;
+if red and kanji == "2kanji" {
+    background-image: url("")!important;
+}
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}
+if red and kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+gyoku2 = 
+gyoku1 = 
+ou2 = 
+ou1 = 
+gyoku2180 = 
+gyoku1180 = 
+ou2180 = 
+ou1180 = 
+
+piece.king.sente,
+.v-kyotoshogi piece.king.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.king.sente,
+.spare-bottom.v-kyotoshogi piece.king.sente {
+if kings == "gyoku" or kings == "gyokuou" {
+    if kanji == "2kanji" {
+        background-image: url(gyoku2)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(gyoku1)!important;
+}}
+if kings == "ou" or kings == "ougyoku" {
+    if kanji == "2kanji" {
+        background-image: url(ou2)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(ou1)!important;
+}}}
+
+.sg-wrap.orientation-gote piece.king.sente,
+.spare-top piece.king.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.king.sente,
+.spare-top.v-kyotoshogi piece.king.sente {
+if kings == "gyoku" or kings == "gyokuou" {
+    if kanji == "2kanji" {
+        background-image: url(gyoku2180)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(gyoku1180)!important;
+}}
+if kings == "ou" or kings == "ougyoku" {
+    if kanji == "2kanji" {
+        background-image: url(ou2180)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(ou1180)!important;
+}}}
+
+piece.king.gote,
+.v-kyotoshogi piece.king.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.king.gote,
+.spare-top.v-kyotoshogi piece.king.gote {
+if kings == "ou" or kings == "gyokuou" {
+    if kanji == "2kanji" {
+        background-image: url(ou2180)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(ou1180)!important;
+}}
+if kings == "gyoku" or kings == "ougyoku" {
+    if kanji == "2kanji" {
+        background-image: url(gyoku2180)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(gyoku1180)!important;
+}}}
+
+.sg-wrap.orientation-gote piece.king.gote,
+.spare-bottom piece.king.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.king.gote,
+.spare-bottom.v-kyotoshogi piece.king.gote {
+if kings == "ou" or kings == "gyokuou" {
+    if kanji == "2kanji" {
+        background-image: url(ou2)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(ou1)!important;
+}}
+if kings == "gyoku" or kings == "ougyoku" {
+    if kanji == "2kanji" {
+        background-image: url(gyoku2)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(gyoku1)!important;
+}}}
+}
