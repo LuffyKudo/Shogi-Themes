@@ -9,10 +9,10 @@ And now you can play shogi using Hari Seldon Shogi Pieces on Lishogi!
 - Works with all variants except with Chu Shogi 
 
 ## Features
-- Option to select either 2-Kanji or 1-Kanji style (default 2-Kanji)
-- Ability to toggle red promoted pieces on and off (default off)
+- Option to select either 2-Kanji (_default_) or 1-Kanji style
+- Ability to toggle red promoted pieces On and Off (_default_)
 - Choose between four Kings style:
-  - Gyoku-Ou (Sente has the Jewel while Gote has the King)[default]
+  - Gyoku-Ou (Sente has the Jewel while Gote has the King)[_default_]
   - Ou-Gyoku (Sente has the King while Gote has the Jewel)
   - Double Gyoku (Both have the Jewel)
   - Double Ou (Both have the King)
