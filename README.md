@@ -2,10 +2,7 @@
 
 Play shogi with diferent themes on Lishogi.org!
 
-Themes available:
-- Hari Seldon Shogi Pieces
-
-| Kindly visit each folder for more info
+| Themes Available <br> (click badge to view the theme)
 | --- |
 | [![Static Badge](https://img.shields.io/badge/Lishogi-Hari_Seldon_Shogi_Pieces-blue?logo=github)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/Hari%20Seldon%20Shogi%20Pieces) |
 
