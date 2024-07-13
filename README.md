@@ -15,7 +15,7 @@ Play shogi with diferent themes on Lishogi.org!
   - 13xforever Shogi Pieces
 - Option to select Kanji Styles (except for Chess-Themed)
   - 2-Kanji (_default_)
-  - 1-Kanji style
+  - 1-Kanji
 - Ability to toggle red promoted pieces (except for Chess-Themed) On and Off (_default_)
 - Choose between four Kings style:
   - Gyoku-Ou (Sente has the Jewel while Gote has the King)[_default_]
