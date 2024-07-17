@@ -7,12 +7,14 @@ Play shogi with diferent themes on Lishogi.org!
 | [![Static Badge](https://img.shields.io/badge/Lishogi-JI_Chess--Themed_Shogi-blue?logo=github)](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi) |
 | [![Static Badge](https://img.shields.io/badge/Lishogi-Hari_Seldon_Shogi_Pieces-darkgreen?logo=github)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/Hari%20Seldon%20Shogi%20Pieces) |
 | [![Static Badge](https://img.shields.io/badge/Lishogi-13xforever_Shogi_Pieces-red?logo=github)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/13xforever%20Shogi%20Pieces) |
+| [![Static Badge](https://img.shields.io/badge/Lishogi-Ryoko-yellow?logo=github)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/Ryoko) |
 
 ## Features
 - Select between 3 different themes:
   - JI Chess-Themed Shogi
   - Hari Seldon Shogi Pieces
   - 13xforever Shogi Pieces
+  - Ryoko
 - Option to select Kanji Styles (except for Chess-Themed)
   - 2-Kanji (_default_)
   - 1-Kanji
@@ -34,7 +36,7 @@ Here are some screenshots. Click each image to enlarge.
 | <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/06/lishogi-screenshot-1.png" alt="JI Chess-Themed Shogi on Lishogi screenshot" width="360"/> <br> <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/06/lishogi-screenshot-2.png" alt="JI Chess-Themed Shogi on Lishogi screenshot promoted pieces" width="360"/> | **JI Chess-Themed Shogi on Lishogi** <br> (2nd image with Promoted Pieces) <br><br> Kindly visit GitHub repo below: <br> [![Static Badge](https://img.shields.io/badge/GitHub-Chess--Themed_Shogi-blue?logo=github)](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi) |
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Hari%20Seldon%20Shogi%20Pieces/Screenshots/Lishogi%202-Kanji%20Red.png" alt="Hari Seldon shogi 2-kanji red promoted pieces Lishogi screenshot" width="360"/> <br> <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Hari%20Seldon%20Shogi%20Pieces/Screenshots/Lishogi%201-Kanji%20Red.png" alt="Hari Seldon shogi 1-kanji red promoted pieces Lishogi screenshot" width="360"/> | **Hari Seldon Shogi Pieces on Lishogi** <br> - 2-Kanji w/ Red Promoted Pieces <br> - 1-Kanji w/ Red Promoted Pieces |
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/13xforever%20Shogi%20Pieces/Screenshots/Lishogi%202-Kanji%20Red.png" alt="13xforever shogi 2-kanji red promoted pieces Lishogi screenshot" width="360"/> <br> <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/13xforever%20Shogi%20Pieces/Screenshots/Lishogi%201-Kanji%20Red.png" alt="13xforever shogi 1-kanji red promoted pieces Lishogi screenshot" width="360"/> | **13xforever Shogi Pieces on Lishogi** <br> - 2-Kanji w/ Red Promoted Pieces <br> - 1-Kanji w/ Red Promoted Pieces |
-
+| <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Ryoko/Screenshots/Lishogi%202-Kanji%20Red.png" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy shogi 2-kanji red promoted pieces Lishogi screenshot" width="360"/> <br> <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Ryoko/Screenshots/Lishogi%201-Kanji%20Red.png" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy  shogi 1-kanji red promoted pieces Lishogi screenshot" width="360"/> | **Ryoko Pieces on Lishogi** <br> - 2-Kanji w/ Red Promoted Pieces <br> - 1-Kanji w/ Red Promoted Pieces |
 
 ## License
 
