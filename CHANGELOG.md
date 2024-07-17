@@ -1,5 +1,7 @@
 # ☗Shogi Themes Changelog☖
 
+## 2024-07-17
+- Created and added [Ryoko](https://github.com/LuffyKudo/Shogi-Themes/blob/main/Ryoko) pieces.
 ## 2024-07-13
 - Created and added [13xforever Shogi Pieces](https://github.com/LuffyKudo/Shogi-Themes/tree/main/13xforever%20Shogi%20Pieces).
 - Added [JI Chess-Themed Shogi](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi) to Shogi Themes.
