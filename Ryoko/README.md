@@ -1,8 +1,8 @@
-# Ryoko Style Shogi Pieces
+# Ryoko (菱湖) Style Shogi Pieces
 
 Play shogi using Ryoko style shogi pieces on Lishogi!
 
-Ryoko style shogi pieces are based on the calligraphy of [Maki Ryōko (巻菱湖)](https://ja.wikipedia.org/wiki/%E5%B7%BB%E8%8F%B1%E6%B9%96), one of the three famous calligraphers at the end of the Edo period. Along with Kinki and Minase styles, Ryoko style is one of the three most popular shogi pieces.
+Ryoko style shogi pieces are based on the calligraphy of [Maki Ryōko (巻菱湖)](https://ja.wikipedia.org/wiki/%E5%B7%BB%E8%8F%B1%E6%B9%96), one of the three famous calligraphers at the end of the Edo period. Along with Kinki and Minase styles, Ryoko style is one of the three most popular shogi pieces styles.
 
 - Available in 2-Kanji and 1-Kanji styles
 - Also available with red promoted pieces
@@ -28,7 +28,7 @@ Here are some screenshots:
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Ryoko/Screenshots/Lishogi%201-Kanji%20Red.png" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy  shogi 1-kanji red promoted pieces Lishogi screenshot" width="360"/> | **1-Kanji w/ Red Promoted Pieces** |
 
 ## License
-<p xmlns:cc="http://creativecommons.org/ns#" >Ryoko by LuffyKudo is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" >Ryoko Style by LuffyKudo is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 ## 
 *Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lishogi.org](https://lishogi.org).*
