@@ -2,7 +2,7 @@
 
 Play shogi using Ryoko style shogi pieces on Lishogi!
 
-Ryoko style shogi pieces are based on the calligraphy of [Maki Ryōko (巻菱湖)](https://ja.wikipedia.org/wiki/%E5%B7%BB%E8%8F%B1%E6%B9%96), one of the three famous calligraphers at the end of the Edo period. Along with Kinki and Minase styles, Ryoko is one of the three most popular shogi pieces styles.
+Ryoko style shogi pieces are based on the calligraphy of [Maki Ryōko (巻菱湖)](https://ja.wikipedia.org/wiki/%E5%B7%BB%E8%8F%B1%E6%B9%96), one of the Three Great Calligraphers of the late Edo period. Along with Kinki and Minase styles, Ryoko is one of the three most popular and used shogi pieces styles.
 
 - Available in 2-Kanji and 1-Kanji styles
 - Also available with red promoted pieces
