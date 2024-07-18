@@ -1,5 +1,5 @@
 # Hari Seldon Shogi Pieces
-Hari Seldon Shogi Pieces are the infamous pieces used in the [English Wikipedia's Shogi](https://en.wikipedia.org/wiki/Shogi) article.
+Hari Seldon Shogi Pieces are the pieces used in the [English Wikipedia's Shogi](https://en.wikipedia.org/wiki/Shogi) article.
 
 And now you can play shogi using Hari Seldon Shogi Pieces on Lishogi!
 
