@@ -1,5 +1,8 @@
 # ☗Shogi Themes Changelog☖
 
+## 2024-07-18
+- Created and added [Kinki](https://github.com/LuffyKudo/Shogi-Themes/blob/main/Kinki) pieces.
+
 ## 2024-07-17
 - Created and added [Ryoko](https://github.com/LuffyKudo/Shogi-Themes/blob/main/Ryoko) pieces.
 ## 2024-07-13
