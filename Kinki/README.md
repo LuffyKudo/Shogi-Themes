@@ -2,7 +2,7 @@
 
 Play shogi using Kinki calligraphy style shogi pieces on Lishogi!
 
-Kinki style shogi pieces was created by [Toshima Ryuzan (豊島龍山)](https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%B3%B6%E9%BE%8D%E5%B1%B1), a shogi piece craftsman and is known as the Father of Modern Shogi Piece Masters. He based it on the writing style of [Emperor Go-Mizunoo
+Kinki style shogi pieces was created by [Toshima Ryuzan (豊島龍山)](https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%B3%B6%E9%BE%8D%E5%B1%B1), a shogi piece craftsman and is known as the Father of Modern Shogi Pieces. He based it on the writing style of [Emperor Go-Mizunoo
 (後水尾天皇)](https://en.wikipedia.org/wiki/Emperor_Go-Mizunoo) which was handed down in the Ohashi family, one of the three head families of shogi during the Edo period. The name Kinki (錦旗) was taken from the first and last characters of **錦**の御**旗** (_Nishiki no Mihata_, Nishiki flag).
 
 Kinki is the most popular and used shogi pieces style and along with Minase and Ryoko styles, is one of the three most popular and used shogi pieces styles.
