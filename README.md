@@ -11,7 +11,7 @@ Play shogi with diferent themes on Lishogi.org!
 | [![Static Badge](https://img.shields.io/badge/Lishogi-Kinki_Style_Pieces-purple?logo=github)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/Kinki) |
 
 ## Features
-- Select between 3 different themes:
+- Select between 5 different themes:
   - JI Chess-Themed Shogi
   - Hari Seldon Shogi Pieces
   - 13xforever Shogi Pieces
