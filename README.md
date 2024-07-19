@@ -9,14 +9,16 @@ Play shogi with diferent themes on Lishogi.org!
 | [![Static Badge](https://img.shields.io/badge/Lishogi-13xforever_Shogi_Pieces-red?logo=github)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/13xforever%20Shogi%20Pieces) |
 | [![Static Badge](https://img.shields.io/badge/Lishogi-Ryoko_Style_Pieces-yellow?logo=github)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/Ryoko) |
 | [![Static Badge](https://img.shields.io/badge/Lishogi-Kinki_Style_Pieces-purple?logo=github)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/Kinki) |
+| [![Static Badge](https://img.shields.io/badge/Lishogi-Minase_Style_Pieces-orange?logo=github)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/Minase) |
 
 ## Features
-- Select between 5 different themes:
+- Select between 6 different themes:
   - JI Chess-Themed Shogi
   - Hari Seldon Shogi Pieces
   - 13xforever Shogi Pieces
   - Ryoko Style
   - Kinki Style
+  - Minase Style
 - Option to select Kanji Styles (except for Chess-Themed)
   - 2-Kanji (_default_)
   - 1-Kanji
