@@ -1,5 +1,8 @@
 # ☗Shogi Themes Changelog☖
 
+## 2024-07-19
+- Created and added [Minase](https://github.com/LuffyKudo/Shogi-Themes/blob/main/Minase) pieces.
+
 ## 2024-07-18
 - Created and added [Kinki](https://github.com/LuffyKudo/Shogi-Themes/blob/main/Kinki) pieces.
 
