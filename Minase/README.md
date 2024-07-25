@@ -1,4 +1,3 @@
-
 # Minase (水無瀬) Style Shogi Pieces
 
 Play shogi using Minase calligraphy style shogi pieces on Lishogi!
@@ -29,7 +28,7 @@ Here are some screenshots:
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Minase/Screenshots/Lishogi%201-Kanji%20Red.png" alt="minase 水無瀬 calligraphy shogi 1-kanji red promoted pieces Lishogi screenshot" width="360"/> | **1-Kanji w/ Red Promoted Pieces** |
 
 ## License
-<p xmlns:cc="http://creativecommons.org/ns#" >Minase Style Pieces by LuffyKudo is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" >Minase Style Shogi Pieces by LuffyKudo is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 ## 
 *Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lishogi.org](https://lishogi.org).*
