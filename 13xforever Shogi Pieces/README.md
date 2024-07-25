@@ -14,7 +14,7 @@ And now you can play shogi using 13xforever Shogi Pieces on Lishogi!
 - Choose between four Kings style:
   - Gyoku-Ou (Sente has the Jewel while Gote has the King)[_default_]
   - Ou-Gyoku (Sente has the King while Gote has the Jewel)
-  - Double Gyoku (both have Jewels)
+  - Double Gyoku (both have the Jewels)
   - Double Ou (both have the Kings)
  
 ![13xforever shogi pieces stylus option](https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/13xforever%20Shogi%20Pieces/Screenshots/Settings.png)
