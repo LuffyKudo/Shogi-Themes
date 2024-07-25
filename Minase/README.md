@@ -15,7 +15,7 @@ Minase style shogi pieces was created by [Minase Kanenari (水無瀬兼成)](htt
 - Choose between four Kings style:
   - Gyoku-Ou (Sente has the Jewel while Gote has the King)[_default_]
   - Ou-Gyoku (Sente has the King while Gote has the Jewel)
-  - Double Gyoku (both have Jewels)
+  - Double Gyoku (both have the Jewels)
   - Double Ou (both have the Kings)
  
 ![hari seldon shogi pieces stylus option](https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Minase/Screenshots/Settings.png)
