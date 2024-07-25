@@ -26,7 +26,7 @@ Play shogi with diferent themes on Lishogi.org!
 - Choose between four Kings style:
   - Gyoku-Ou (Sente has the Jewel while Gote has the King)[_default_]
   - Ou-Gyoku (Sente has the King while Gote has the Jewel)
-  - Double Gyoku (both have Jewels)
+  - Double Gyoku (both have the Jewels)
   - Double Ou (both have the Kings)
  
 ![Shogi Themes LuffyKudo stylus option](https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Settings.png)
