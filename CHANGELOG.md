@@ -1,5 +1,9 @@
 # ☗Shogi Themes Changelog☖
 
+## 2024-07-27
+- Released [Hari Seldon Shogi Pieces v1.0.0](https://userstyles.world/style/17395/hari-seldon-shogi-pieces) on UserStyles.world (USw).
+- Published [Hari Seldon Shogi Pieces](https://luffykudo.wordpress.com/2024/07/27/hari-seldon-shogi-pieces) blog post.
+
 ## 2024-07-19
 - Created and added [Minase](https://github.com/LuffyKudo/Shogi-Themes/blob/main/Minase) pieces.
 
