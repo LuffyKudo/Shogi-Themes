@@ -3,7 +3,7 @@ Hari Seldon Shogi Pieces are the pieces used in the [English Wikipedia's Shogi](
 
 And now you can play shogi using Hari Seldon Shogi Pieces on Lishogi!
 
-<img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/hari-seldon-shogi-pieces.png" alt="Hari Seldon Shogi Pieces 2 1 kanji red promoted pieces LuffyKudo" width="720"/>
+<img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/hari-seldon-shogi-pieces-1.png" alt="Hari Seldon Shogi Pieces 2 1 kanji red promoted pieces LuffyKudo" width="720"/>
 
 As seen in the image above, I added the standard black-colored promoted pieces as well as the 1-kanji pieces.
 
