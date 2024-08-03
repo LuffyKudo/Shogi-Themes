@@ -19,7 +19,13 @@ And now you can play shogi using 13xforever Shogi Pieces on Lishogi!
  
 ![13xforever shogi pieces stylus option](https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/13xforever%20Shogi%20Pieces/Screenshots/Settings.png)
 
- ## Lishogi Screenshots
+## Installation
+
+For instructions on how to install it, kindly visit
+
+[![Static Badge](https://img.shields.io/badge/How_to_Install-13xforever_Shogi_Pieces-blue?logo=wordpress)](https://luffykudo.wordpress.com/2024/08/03/13xforever-shogi-pieces/#installation-instructions)
+
+## Lishogi Screenshots
 Here are some screenshots:
 | Screenshot | Caption |
 |---|---|
