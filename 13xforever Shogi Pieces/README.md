@@ -3,6 +3,10 @@
 
 And now you can play shogi using 13xforever Shogi Pieces on Lishogi!
 
+<img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/13xforever-shogi-pieces.png" alt="13xforever Shogi Pieces 2 1 kanji red promoted pieces Jemierry J.I. JI Maglinte Jumawan LuffyKudo" width="720"/>
+
+As seen in the image above, I added the standard black-colored promoted pieces as well as the 1-kanji pieces.
+
 - Available in 2-Kanji and 1-Kanji styles
 - Also available with red promoted pieces
 - Works with matches, puzzles, analysis and board editor
