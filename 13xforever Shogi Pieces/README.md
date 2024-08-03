@@ -1,5 +1,5 @@
 # 13xforever Shogi Pieces
-13xforever Shogi Pieces are pieces made by 13xforever available in [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:13xforever_SVG_Shogi_Pieces).
+13xforever Shogi Pieces are pieces made by 13xforever available in [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:13xforever_SVG_Shogi_Pieces). These pieces are also available in the shogi software [BCMGames](https://www.chessvariants.com/programs.dir/bcmshogi.html), also known as BCM Shogi, by Bernard C. März.
 
 And now you can play shogi using 13xforever Shogi Pieces on Lishogi!
 
