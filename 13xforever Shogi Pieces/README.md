@@ -29,7 +29,7 @@ Here are some screenshots:
 ## License
 - <p xmlns:cc="http://creativecommons.org/ns#" >13xforever Shogi Pieces is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
-- Modified [Traditional Shogi Pieces](https://commons.wikimedia.org/wiki/Category:SVG_traditional_shogi_pieces) are originally by [13xforever](https://commons.wikimedia.org/w/index.php?title=User:13xforever&action=edit&redlink=1) licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en).
+- Modified [SVG Shogi Pieces](https://commons.wikimedia.org/wiki/Category:13xforever_SVG_Shogi_Pieces) are originally by [13xforever](https://commons.wikimedia.org/wiki/User:13xforever/Shogi_Pieces) licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en).
 
 ## 
 *Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lishogi.org](https://lishogi.org).*
