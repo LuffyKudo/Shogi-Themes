@@ -1,5 +1,5 @@
 # 13xforever Shogi Pieces
-13xforever Shogi Pieces are pieces made by 13xforever available in [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:SVG_traditional_shogi_pieces).
+13xforever Shogi Pieces are pieces made by 13xforever available in [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:13xforever_SVG_Shogi_Pieces).
 
 And now you can play shogi using 13xforever Shogi Pieces on Lishogi!
 
