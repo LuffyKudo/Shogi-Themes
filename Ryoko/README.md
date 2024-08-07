@@ -4,6 +4,10 @@ Play shogi using Ryoko calligraphy style shogi pieces on Lishogi!
 
 Ryoko style shogi pieces are based on the calligraphy of [Maki Ryōko (巻菱湖)](https://ja.wikipedia.org/wiki/%E5%B7%BB%E8%8F%B1%E6%B9%96), one of the Three Great Calligraphers of the late Edo period. Along with Kinki and Minase styles, Ryoko is one of the three most popular and used shogi pieces styles.
 
+<img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/ryoko-pieces.png" alt="Maki Ryōko (巻菱湖) Ryoko sho calligraphy style Shogi Pieces 2 1 kanji red promoted pieces Jemierry J.I. JI Maglinte Jumawan LuffyKudo" width="720"/>
+
+I recreated the pieces in Inkscape SVG format and as seen in the image above, I added the 1-kanji as well as the red promoted pieces to the standard black-colored, 2-kanji set.
+
 - Available in 2-Kanji and 1-Kanji styles
 - Also available with red promoted pieces
 - Works with matches, puzzles, analysis and board editor
@@ -19,6 +23,12 @@ Ryoko style shogi pieces are based on the calligraphy of [Maki Ryōko (巻菱湖
   - Double Ou (both have the Kings)
  
 ![hari seldon shogi pieces stylus option](https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Ryoko/Screenshots/Settings.png)
+
+## Installation
+
+For instructions on how to install it, kindly visit
+
+[![Static Badge](https://img.shields.io/badge/How_to_Install-Ryoko_Style_Shogi_Pieces-blue?logo=wordpress)](https://luffykudo.wordpress.com/2024/08/07/ryoko-style-shogi-pieces/#installation-instructions)
 
  ## Lishogi Screenshots
 Here are some screenshots:
