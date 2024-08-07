@@ -1,5 +1,9 @@
 # ☗Shogi Themes Changelog☖
 
+## 2024-08-07
+- Released [Ryoko Style Shogi Pieces on Lishogi v1.0.0](https://userstyles.world/style/17599/) on UserStyles.world (USw).
+- Published [Ryoko Style Shogi Pieces](https://luffykudo.wordpress.com/2024/08/07/ryoko-style-shogi-pieces/#repositories) blog post.
+
 ## 2024-08-03
 - Released [13xforever Shogi Pieces on Lishogi v1.0.0](https://userstyles.world/style/17522/) on UserStyles.world (USw).
 - Published [13xforever Shogi Pieces](https://luffykudo.wordpress.com/2024/08/03/13xforever-shogi-pieces/) blog post.
