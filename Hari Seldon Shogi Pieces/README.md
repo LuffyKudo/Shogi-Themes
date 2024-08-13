@@ -1,7 +1,7 @@
 # Hari Seldon Shogi Pieces
 Hari Seldon Shogi Pieces are the iconic pieces used in the [English Wikipedia's Shogi](https://en.wikipedia.org/wiki/Shogi) article.
 
-And now you can play shogi using Hari Seldon Shogi Pieces on Lishogi and 81Dojo!
+And now you can play shogi using Hari Seldon Shogi Pieces on Lishogi!
 
 <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/hari-seldon-shogi-pieces-1.png" alt="Hari Seldon Shogi Pieces 2 1 kanji red promoted pieces LuffyKudo" width="720"/>
 
@@ -29,14 +29,14 @@ For instructions on how to install it, kindly visit
 
 [![Static Badge](https://img.shields.io/badge/How_to_Install-Hari_Seldon_Shogi_Pieces-blue?logo=wordpress)](https://luffykudo.wordpress.com/2024/07/27/hari-seldon-shogi-pieces/#installation-instructions)
 
- ## Lishogi Screenshots
+## Lishogi Screenshots
 Here are some screenshots on Lishogi:
 | Screenshot | Caption |
 |---|---|
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Hari%20Seldon%20Shogi%20Pieces/Screenshots/Lishogi%202-Kanji%20Red.png" alt="Hari Seldon shogi 2-kanji red promoted pieces Lishogi screenshot LuffyKudo" width="360"/> | **2-Kanji w/ Red Promoted Pieces** |
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Hari%20Seldon%20Shogi%20Pieces/Screenshots/Lishogi%201-Kanji%20Red.png" alt="Hari Seldon shogi 1-kanji red promoted pieces Lishogi screenshot LuffyKudo" width="360"/> | **1-Kanji w/ Red Promoted Pieces** |
 
- ## 81Dojo Screenshots
+<!---## 81Dojo Screenshots
 Here are some screenshots on 81Dojo:
 | Screenshot | Caption |
 |---|---|
@@ -44,7 +44,7 @@ Here are some screenshots on 81Dojo:
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Hari%20Seldon%20Shogi%20Pieces/Screenshots/81Dojo-1-Kanji.jpg" alt="Hari Seldon shogi 2-kanji red promoted pieces 81Dojo screenshot LuffyKudo" width="360"/> | **1-Kanji Pieces** |
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Hari%20Seldon%20Shogi%20Pieces/Screenshots/81Dojo-2-Kanji-Red.jpg" alt="Hari Seldon shogi 2-kanji red promoted pieces 81Dojo screenshot LuffyKudo" width="360"/> | **2-Kanji w/ Red Promoted Pieces** |
 | <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Hari%20Seldon%20Shogi%20Pieces/Screenshots/81Dojo-1-Kanji-Red.jpg" alt="Hari Seldon shogi 1-kanji red promoted pieces 81Dojo screenshot LuffyKudo" width="360"/> | **1-Kanji w/ Red Promoted Pieces** |
-
+--->
 ## License
 - <p xmlns:cc="http://creativecommons.org/ns#" ><a href="https://luffykudo.wordpress.com/2024/07/27/hari-seldon-shogi-pieces/">Hari Seldon Shogi Pieces</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
