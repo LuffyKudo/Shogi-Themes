@@ -1,6 +1,6 @@
 # ☗Shogi Themes Changelog☖
 
-## 2024-08-14
+## 2024-08-16
 - Released [Minase Style Shogi Pieces on Lishogi v1.0.0](https://userstyles.world/style/17718/) on UserStyles.world (USw).
 - Published [Minase Style Shogi Pieces](https://luffykudo.wordpress.com/2024/08/16/minase-style-shogi-pieces/) blog post.
 
