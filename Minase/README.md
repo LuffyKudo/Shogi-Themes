@@ -4,6 +4,10 @@ Play shogi using Minase calligraphy style shogi pieces on Lishogi!
 
 Minase style shogi pieces was created by [Minase Kanenari (水無瀬兼成)](https://ja.wikipedia.org/wiki/水無瀬家), a famous calligrapher of the aristocratic Minase Family. Along with Kinki and Ryoko styles, Minase is one of the three most popular and used shogi pieces styles.
 
+<img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/minase-shogi-pieces.png" alt="Minase Kanenari (水無瀬兼成) Minase 水無瀬 sho calligraphy style Shogi Pieces 2 1 kanji red promoted pieces Jemierry J.I. JI Maglinte Jumawan LuffyKudo" width="720"/>
+
+I recreated the pieces in Inkscape SVG format and as seen in the image above, I added the 1-kanji as well as the red promoted pieces to the standard black-colored, 2-kanji set.
+
 - Available in 2-Kanji and 1-Kanji styles
 - Also available with red promoted pieces
 - Works with matches, puzzles, analysis and board editor
@@ -24,7 +28,7 @@ Minase style shogi pieces was created by [Minase Kanenari (水無瀬兼成)](htt
 
 For instructions on how to install it, kindly visit
 
-[![Static Badge](https://img.shields.io/badge/How_to_Install-Minase_Style_Shogi_Pieces-blue?logo=wordpress)](https://luffykudo.wordpress.com/2024/08/26/minase-style-shogi-pieces/#installation-instructions)
+[![Static Badge](https://img.shields.io/badge/How_to_Install-Minase_Style_Shogi_Pieces-blue?logo=wordpress)](https://luffykudo.wordpress.com/2024/08/16/minase-style-shogi-pieces/#installation-instructions)
 
  ## Lishogi Screenshots
 Here are some screenshots:
