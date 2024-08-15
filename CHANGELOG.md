@@ -1,8 +1,16 @@
 # ☗Shogi Themes Changelog☖
 
+## 2024-08-14
+- Released [Minase Style Shogi Pieces on Lishogi v1.0.0](https://userstyles.world/style/17718/) on UserStyles.world (USw).
+- Published [Minase Style Shogi Pieces](https://luffykudo.wordpress.com/2024/08/16/minase-style-shogi-pieces/) blog post.
+
+## 2024-08-14
+- Released [Kinki Style Shogi Pieces on Lishogi v1.0.0](https://userstyles.world/style/17688/) on UserStyles.world (USw).
+- Published [Kinki Style Shogi Pieces](https://luffykudo.wordpress.com/2024/08/14/kinki-style-shogi-pieces/) blog post.
+
 ## 2024-08-07
 - Released [Ryoko Style Shogi Pieces on Lishogi v1.0.0](https://userstyles.world/style/17599/) on UserStyles.world (USw).
-- Published [Ryoko Style Shogi Pieces](https://luffykudo.wordpress.com/2024/08/07/ryoko-style-shogi-pieces/#repositories) blog post.
+- Published [Ryoko Style Shogi Pieces](https://luffykudo.wordpress.com/2024/08/07/ryoko-style-shogi-pieces/) blog post.
 
 ## 2024-08-03
 - Released [13xforever Shogi Pieces on Lishogi v1.0.0](https://userstyles.world/style/17522/) on UserStyles.world (USw).
