@@ -25,7 +25,7 @@ I recreated the pieces in Inkscape SVG format and as seen in the image above, I 
   - Double Gyoku (both have the Jewels)
   - Double Ou (both have the Kings)
  
-![Kinki 錦旗 shogi pieces Toshima Ryuzan 豊島龍山 stylus option](https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Kinki/Screenshots/Settings.png)
+![Kinki 錦旗 calligraphy style shogi pieces Toshima Ryuzan 豊島龍山 stylus option](https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Kinki/Screenshots/Settings.png)
 
 ## Installation
 
