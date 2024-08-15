@@ -22,7 +22,7 @@ I recreated the pieces in Inkscape SVG format and as seen in the image above, I 
   - Double Gyoku (both have the Jewels)
   - Double Ou (both have the Kings)
  
-![hari seldon shogi pieces stylus option](https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Ryoko/Screenshots/Settings.png)
+![Ryoko (菱湖) calligraphy style pieces Maki Ryōko 巻菱湖 stylus option](https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Ryoko/Screenshots/Settings.png)
 
 ## Installation
 
