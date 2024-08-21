@@ -1,8 +1,10 @@
 # ☗Shogi Themes Changelog☖
 
+## 2024-08-21
+- Released [13xforever Shogi Pieces on 81Dojo v1.0.0](https://userstyles.world/style/17772/) on UserStyles.world (USw).
+
 ## 2024-08-20
 - Released [Hari Seldon Shogi Pieces on 81Dojo v1.0.0](https://userstyles.world/style/17766/) on UserStyles.world (USw).
-
 
 ## 2024-08-16
 - Released [Minase Style Shogi Pieces on Lishogi v1.0.0](https://userstyles.world/style/17718/) on UserStyles.world (USw).
