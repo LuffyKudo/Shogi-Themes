@@ -1,6 +1,6 @@
 # Ryoko (菱湖) Style Shogi Pieces
 
-Play shogi using Ryoko calligraphy style shogi pieces on Lishogi!
+Play shogi using Ryoko calligraphy style shogi pieces on 81Dojo and Lishogi!
 
 Ryoko style shogi pieces are based on the calligraphy of [Maki Ryōko (巻菱湖)](https://ja.wikipedia.org/wiki/%E5%B7%BB%E8%8F%B1%E6%B9%96), one of the Three Great Calligraphers of the late Edo period. Along with Kinki and Minase styles, Ryoko is one of the three most popular and used shogi pieces styles.
 
@@ -11,7 +11,7 @@ I recreated the pieces in Inkscape SVG format and as seen in the image above, I 
 - Available in 2-Kanji and 1-Kanji styles
 - Also available with red promoted pieces
 - Works with matches, puzzles, analysis and board editor
-- Works with all variants except with Chu Shogi 
+- Works with all variants except with Dobutsu Shogi on 81Dojo and Chu Shogi on Lishogi
 
 ## Features
 - Option to select either 2-Kanji (_default_) or 1-Kanji style
@@ -24,21 +24,30 @@ I recreated the pieces in Inkscape SVG format and as seen in the image above, I 
  
 ![Ryoko (菱湖) calligraphy style pieces Maki Ryōko 巻菱湖 stylus option](https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Ryoko/Screenshots/Settings.png)
 
+***\*Note:** 81Dojo already has the correct distinction for Gyoku and Ou (Jewel and King), which is Ou for the higher rated/ranked player, so the default “Gyoku-Ou” should be selected for the Kings Style. However, for loaded external kifus, it seems like sente always has the gyoku, so you have the freedom to select the Kings Style depending on the ranking and your preference.*
+
 ## Installation
 
 For instructions on how to install it, kindly visit
 
 [![Static Badge](https://img.shields.io/badge/How_to_Install-Ryoko_Style_Shogi_Pieces-blue?logo=wordpress)](https://luffykudo.wordpress.com/2024/08/07/ryoko-style-shogi-pieces/#installation-instructions)
 
+## 81Dojo Screenshots
+Here are some screenshots on 81Dojo:
+| Screenshot | Caption |
+|---|---|
+| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/ryoko-81dojo-2-kanji.jpg" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy shogi 2-kanji pieces 81Dojo screenshot LuffyKudo" width="360"/> <br> <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/ryoko-81dojo-2-kanji-red.jpg" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy shogi 2-kanji red promoted pieces 81Dojo screenshot LuffyKudo" width="360"/>| **- 2-Kanji Pieces <br> - 2-Kanji w/ Red Promoted Pieces** |
+| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/ryoko-81dojo-1-kanji.jpg" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy shogi 1-kanji pieces 81Dojo screenshot LuffyKudo" width="360"/> <br> <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/hari-seldon-shogi-pieces-81dojo-1-kanji-red.jpg" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy shogi 1-kanji red promoted pieces 81Dojo screenshot LuffyKudo" width="360"/> | **- 1-Kanji Pieces <br> - 1-Kanji w/ Red Promoted Pieces** |
+
  ## Lishogi Screenshots
 Here are some screenshots:
 | Screenshot | Caption |
 |---|---|
-| <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Ryoko/Screenshots/Lishogi%202-Kanji%20Red.png" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy shogi 2-kanji red promoted pieces Lishogi screenshot" width="360"/> | **2-Kanji w/ Red Promoted Pieces** |
-| <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Ryoko/Screenshots/Lishogi%201-Kanji%20Red.png" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy shogi 1-kanji red promoted pieces Lishogi screenshot" width="360"/> | **1-Kanji w/ Red Promoted Pieces** |
+| <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Ryoko/Screenshots/Lishogi%202-Kanji%20Red.png" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy shogi 2-kanji red promoted pieces Lishogi screenshot LuffyKudo" width="360"/> | **2-Kanji w/ Red Promoted Pieces** |
+| <img src="https://raw.githubusercontent.com/LuffyKudo/Shogi-Themes/main/Ryoko/Screenshots/Lishogi%201-Kanji%20Red.png" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy shogi 1-kanji red promoted pieces Lishogi screenshot LuffyKudo" width="360"/> | **1-Kanji w/ Red Promoted Pieces** |
 
 ## License
 <p xmlns:cc="http://creativecommons.org/ns#" ><a href="https://luffykudo.wordpress.com/2024/08/07/ryoko-style-shogi-pieces/">Ryoko Style Shogi Pieces by LuffyKudo</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 ## 
-*Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lishogi.org](https://lishogi.org).*
+*Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [81Dojo](https://81dojo.com) and [Lishogi.org](https://lishogi.org).*
