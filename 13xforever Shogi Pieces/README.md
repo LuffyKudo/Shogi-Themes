@@ -36,7 +36,7 @@ Here are some screenshots on 81Dojo:
 | Screenshot | Caption |
 |---|---|
 | <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/13xforever-81dojo-2-kanji.jpg" alt="13xforever shogi 2-kanji pieces 81Dojo screenshot LuffyKudo" width="360"/> <br> <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/13xforever-81dojo-2-kanji-red.jpg" alt="13xforever shogi 2-kanji red promoted pieces 81Dojo screenshot LuffyKudo" width="360"/>| **- 2-Kanji Pieces <br> - 2-Kanji w/ Red Promoted Pieces** |
-| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/13xforever-81dojo-1-kanji.jpg" alt="13xforever shogi 1-kanji pieces 81Dojo screenshot LuffyKudo" width="360"/> <br> <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/13xforever-81dojo-1-kanji-red.jpg?w=750" alt="13xforever shogi 1-kanji red promoted pieces 81Dojo screenshot LuffyKudo" width="360"/> | **- 1-Kanji Pieces <br> - 1-Kanji w/ Red Promoted Pieces** |
+| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/13xforever-81dojo-1-kanji.jpg" alt="13xforever shogi 1-kanji pieces 81Dojo screenshot LuffyKudo" width="360"/> <br> <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/13xforever-81dojo-1-kanji-red.jpg" alt="13xforever shogi 1-kanji red promoted pieces 81Dojo screenshot LuffyKudo" width="360"/> | **- 1-Kanji Pieces <br> - 1-Kanji w/ Red Promoted Pieces** |
 
 ## Lishogi Screenshots
 And here are some screenshots on Lishogi:
