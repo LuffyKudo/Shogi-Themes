@@ -37,7 +37,7 @@ Here are some screenshots on 81Dojo:
 | Screenshot | Caption |
 |---|---|
 | <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/ryoko-81dojo-2-kanji.jpg" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy shogi 2-kanji pieces 81Dojo screenshot LuffyKudo" width="360"/> <br> <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/ryoko-81dojo-2-kanji-red.jpg" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy shogi 2-kanji red promoted pieces 81Dojo screenshot LuffyKudo" width="360"/>| **- 2-Kanji Pieces <br> - 2-Kanji w/ Red Promoted Pieces** |
-| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/ryoko-81dojo-1-kanji.jpg" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy shogi 1-kanji pieces 81Dojo screenshot LuffyKudo" width="360"/> <br> <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/hari-seldon-shogi-pieces-81dojo-1-kanji-red.jpg" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy shogi 1-kanji red promoted pieces 81Dojo screenshot LuffyKudo" width="360"/> | **- 1-Kanji Pieces <br> - 1-Kanji w/ Red Promoted Pieces** |
+| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/ryoko-81dojo-1-kanji.jpg" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy shogi 1-kanji pieces 81Dojo screenshot LuffyKudo" width="360"/> <br> <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/ryoko-81dojo-1-kanji-red.jpg" alt="Maki Ryōko Ryoko 巻菱湖 calligraphy shogi 1-kanji red promoted pieces 81Dojo screenshot LuffyKudo" width="360"/> | **- 1-Kanji Pieces <br> - 1-Kanji w/ Red Promoted Pieces** |
 
  ## Lishogi Screenshots
 Here are some screenshots:
