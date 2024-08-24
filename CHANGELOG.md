@@ -1,5 +1,8 @@
 # ☗Shogi Themes Changelog☖
 
+## 2024-08-24
+- Released [Kinki Style Shogi Pieces on 81Dojo v1.0.0](https://userstyles.world/style/17822/) on UserStyles.world (USw).
+
 ## 2024-08-22
 - Released [Ryoko Style Shogi Pieces on 81Dojo v1.0.0](https://userstyles.world/style/17785/) on UserStyles.world (USw).
 
