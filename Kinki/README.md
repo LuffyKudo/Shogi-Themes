@@ -54,4 +54,3 @@ Here are some screenshots:
 
 ## 
 *Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [81Dojo](https://81dojo.com) and [Lishogi.org](https://lishogi.org).*
-
