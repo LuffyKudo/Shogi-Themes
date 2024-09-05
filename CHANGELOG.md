@@ -1,5 +1,8 @@
 # ☗Shogi Themes Changelog☖
 
+## 2024-09-05
+- Released [JI Chess-Themed Shogi on 81Dojo v1.0.0](https://userstyles.world/style/17982/) on UserStyles.world (USw).
+
 ## 2024-08-27
 - Released [Minase Style Shogi Pieces on 81Dojo v1.0.0](https://userstyles.world/style/17866/) on UserStyles.world (USw).
 
